@@ -1,4 +1,4 @@
-# Sapphire Discord Bot Typescript Template
+# Sapphire Discord Bot Typescript Minimalistic Template
 
 Install dependencies
 
