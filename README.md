@@ -3,10 +3,10 @@
 Install dependencies
 
 ```bash
-npm install
+npm install # or yarn
 ```
 
-Setup .env file
+Setup .env file by copying .env.example and name the copy with .env
 
 ```bash
 cp .env.example .env
