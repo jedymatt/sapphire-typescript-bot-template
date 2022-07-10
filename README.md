@@ -3,7 +3,7 @@
 Install dependencies
 
 ```bash
-npm install # or yarn
+npm install # or yarn install
 ```
 
 Setup .env file by copying .env.example and name the copy with .env
